@@ -1000,20 +1000,11 @@ h1, h2, h3, h4 {
 
 @media (max-width: 720px) {
   .page { padding: 0 20px 80px; }
-  .nav-inner { padding: 0 20px 1px; min-height: 56px; gap: 4px; }
-  .nav-brand { flex: 0 0 auto; }
-  .nav-link { padding: 0 10px; font-size: 13px; }
-  .nav-actions { margin-left: 4px; padding-left: 6px; }
+  .nav { display: none; }
+  .section { scroll-margin-top: 0; }
   .pub { grid-template-columns: 1fr; }
   .pub-thumb { aspect-ratio: 16/8; }
   .section-meta { display: none; }
-}
-
-/* Hide nav labels on narrow */
-@media (max-width: 540px) {
-  .nav-link-label { display: none; }
-  .nav-link { padding: 0 8px; }
-  .nav-link-icon { display: inline-block !important; }
 }
 
 /* =========== Reveal-on-scroll =========== */
