@@ -176,7 +176,7 @@ const Nav = ({ theme, onToggleTheme }) => {
     <nav className="nav">
       <div className="nav-inner">
         <a href="#top" className="nav-brand" onClick={(e) => {e.preventDefault();window.scrollTo({ top: 0, behavior: "smooth" });}} aria-label="Back to top">
-          <img src="assets/avatar-octopus.png" alt="" className="nav-brand-avatar" />
+          <img src="assets/avatar.png" alt="" className="nav-brand-avatar" />
         </a>
         <div className="nav-links" ref={linksRef}>
           <span
