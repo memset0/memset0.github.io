@@ -7,10 +7,10 @@ const SITE = {
   university: "Zhejiang University",
   location: "San Diego, CA",
   email: "yuw352@ucsd.edu",
-  blogUrl: "https://memset0.cn/",
+  blogUrl: "https://mem.ac/posts",
   socials: [
     { label: "GitHub",  href: "https://github.com/memset0",   icon: "github" },
-    { label: "Blog",    href: "https://memset0.cn/",          icon: "external" },
+    { label: "Blog",    href: "https://mem.ac/posts",          icon: "external" },
   ],
   about: [
     "I am <strong>Yulun Wu</strong>, an undergraduate student at <strong>Zhejiang University</strong> (CS'27). Currently I am a visiting student at <strong>UC San Diego</strong>, advised by Prof. <a href=\"https://haozhang.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Hao Zhang</a>.",
