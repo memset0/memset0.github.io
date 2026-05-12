@@ -421,7 +421,7 @@ const Scholarships = () => null;
 const Miscellaneous = () => {
   const items = [
   "I really enjoy video games, especially <strong>Minecraft</strong> and <strong>Slay the Spire</strong>. I've also been competitive in Minecraft 1.8 PvP (Hypixel Bedwars and MegaWalls), where I've put in more hours than I'd care to admit.",
-  "I'm also a hobbyist full-stack engineer with a soft spot for <strong>front-end work</strong> — long before modern AI agents made it look easy."];
+  "I'm also a hobbyist full-stack engineer with a soft spot for front-end work — long before modern AI agents made it look easy."];
 
   return (
     <section className="section" id="misc">
