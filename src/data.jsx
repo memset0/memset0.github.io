@@ -54,7 +54,7 @@ const SITE = {
         "Chak Tou Leong", "Jiale Kang", "Jinjin Gu",
       ],
       links: [
-        { label: "arXiv", href: "#" },
+        { label: "arXiv", href: "https://arxiv.org/abs/2512.23165" },
       ],
       thumb: "RLVR",
       thumbImg: "assets/pub-rlvr.png",
@@ -69,7 +69,7 @@ const SITE = {
         "et al.", "(incl. Yulun Wu)",
       ],
       links: [
-        { label: "arXiv", href: "#" },
+        { label: "arXiv", href: "https://arxiv.org/abs/2511.13612" },
       ],
       thumb: "P1",
       thumbImg: "assets/pub-p1.png",
