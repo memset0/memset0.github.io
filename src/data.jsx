@@ -97,11 +97,6 @@ const SITE = {
     { year: "Nov. 2024", title: "The 10th CCPC Regional Chongqing — Gold Medal", org: "" },
     { year: "Oct. 2024", title: "The 10th CCPC Regional Jinan — Gold Medal",     org: "" },
   ],
-  skills: {
-    "Competitive Programming": "Codeforces rating 2754 (International Grandmaster) · ICPC team leader",
-    "Research Frameworks":     "LLM post-training pipeline (veRL, slime) · SpecForge · diffusers",
-    "Software Engineering":    "Python · C++ · TypeScript · Docker · Shell · LaTeX · open-source contributor since middle school",
-  },
 };
 
 window.SITE = SITE;
