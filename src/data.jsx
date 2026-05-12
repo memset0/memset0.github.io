@@ -15,7 +15,7 @@ const SITE = {
   about: [
     "I am <strong>Yulun Wu</strong>, an undergraduate student at <strong>Zhejiang University</strong> (CS'27). Currently I am a visiting student at <strong>UC San Diego</strong>, advised by Prof. <a href=\"https://haozhang.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Hao Zhang</a>.",
     "I am broadly interested in large language models, with a focus on <strong>efficient ML systems</strong> and <strong>agentic reasoning</strong>.",
-    "In addition to research, I have been actively involved in <strong>competitive programming</strong> for over a decade. As the captain of team <a href=\"https://github.com/plenty-of-penalty/acm-template.typ\" target=\"_blank\" rel=\"noopener noreferrer\">Plenty of Penalty</a>, I led my team to a <strong>3rd place</strong> finish at the <strong>49th ICPC EC-Final</strong>, the national-level championship.",
+    "In addition to research, I have been actively involved in <strong>competitive programming</strong> for over a decade. As the team leader of <a href=\"https://github.com/plenty-of-penalty/acm-template.typ\" target=\"_blank\" rel=\"noopener noreferrer\">Plenty of Penalty</a>, I led my team to a <strong>3rd place</strong> finish at the <strong>49th ICPC EC-Final</strong>, the national-level championship.",
   ],
   interests: ["Efficient ML Systems", "LLM Agentic Learning", "LLM Reasoning & Reinforcement Learning"],
   education: [
@@ -98,7 +98,7 @@ const SITE = {
     { year: "Oct. 2024", title: "The 10th CCPC Regional Jinan — Gold Medal",     org: "" },
   ],
   skills: {
-    "Competitive Programming": "Codeforces rating 2754 (International Grandmaster) · ICPC team captain",
+    "Competitive Programming": "Codeforces rating 2754 (International Grandmaster) · ICPC team leader",
     "Research Frameworks":     "LLM post-training pipeline (veRL, slime) · SpecForge · diffusers",
     "Software Engineering":    "Python · C++ · TypeScript · Docker · Shell · LaTeX · open-source contributor since middle school",
   },
