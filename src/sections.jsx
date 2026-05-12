@@ -230,7 +230,7 @@ const Sidebar = () => {
             <div className="sidebar-avatar-orbit-2" aria-hidden="true"></div>
             <div className="sidebar-avatar-orbit" aria-hidden="true"></div>
             <div className="sidebar-avatar">
-              <img src="assets/avatar.png" alt={S.name} />
+              <img src="assets/avatar-photo.jpg" alt={S.name} />
             </div>
           </div>
         </Reveal>
