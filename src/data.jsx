@@ -61,7 +61,7 @@ const SITE = {
     },
     {
       venue: "arXiv preprint",
-      year: "2025",
+      year: "",
       badge: "tech report",
       title: "P1: Mastering Physics Olympiads with Reinforcement Learning",
       authors: [
