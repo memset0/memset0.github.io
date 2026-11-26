@@ -1,0 +1,281 @@
+{
+  "name": "Yulun Wu",
+  "handle": "memset0",
+  "tagline": "",
+  "affiliation": "Zhejiang University",
+  "university": "Zhejiang University",
+  "location": "San Diego, CA, USA",
+  "email": "memset0@outlook.com",
+  "blogUrl": "https://mem.ac/posts",
+  "socials": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/memset0",
+      "icon": "github"
+    },
+    {
+      "label": "Blog",
+      "href": "https://mem.ac/posts",
+      "icon": "external"
+    }
+  ],
+  "about": [
+    "I am <strong>Yulun Wu</strong>, an undergraduate student at <b>Zhejiang University</b> (CS '27), where I <strong>rank 1st</strong> in my department (Major GPA: 4.93/5.0). I am a visiting undergraduate researcher at <b>UC San Diego</b>, advised by <b><a href=\"https://haozhang.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Prof. Hao Zhang</a></b>.",
+    "Before diving into AI research, I was active in <strong>competitive programming</strong>, culminating in <strong>3rd place</strong> at <b>the 49th ICPC EC-Final</b>. This experience led me to focus on efficiency and algorithm-system co-design for foundation models.",
+    "<strong>My research aims to build efficient AI systems across the full model lifecycle, from architecture and post-training to recursive self-improving (RSI) agents</strong>. In particular, I focus on: <ul class=\"about-list\"> <li><b>Efficient Video Generation</b>: JetDiffusion <a href=\"https://arxiv.org/abs/2611.33268\" target=\"_blank\" rel=\"noopener noreferrer\">[arXiv 2611]</a></li> <li><b>Efficient LLM &amp; LLM RL</b>: PeRL <a href=\"https://arxiv.org/abs/2512.23165\" target=\"_blank\" rel=\"noopener noreferrer\">[ICML '26]</a>, JetSpec <a href=\"https://arxiv.org/abs/2606.18394\" target=\"_blank\" rel=\"noopener noreferrer\">[arXiv 2606]</a></li> </ul>",
+    "I am currently working on <b>robo-use agents</b> and <b>efficient RSI infrastructure</b> for them, see: ORA <a href=\"https://fastrua.ai/blog/2026-11-code-mode/\" target=\"_blank\" rel=\"noopener noreferrer\">[blog]</a>, <span style=\"white-space: nowrap\">ORA-RSI</span> [coming soon]."
+  ],
+  "interests": [
+    "Efficient ML Systems",
+    "LLM Agentic Learning",
+    "LLM Reasoning & Reinforcement Learning"
+  ],
+  "education": [
+    {
+      "date": "Sept. 2023 — Jun. 2027 (Expected)",
+      "title": "Zhejiang University",
+      "org": "B.Eng. in Computer Science & Technology",
+      "detail": "Major GPA: 4.93/5.0 (Rank 1/152)",
+      "logo": "assets/logo-zju.png"
+    }
+  ],
+  "experience": [
+    {
+      "date": "Mar. 2026 — Nov. 2026",
+      "title": "University of California, San Diego",
+      "org": "Research Intern, advised by Prof. Hao Zhang",
+      "logo": "assets/logo-ucsd.png"
+    },
+    {
+      "date": "Jul. 2025 — Nov. 2025",
+      "title": "Shanghai AI Lab",
+      "org": "Research Intern",
+      "logo": "assets/logo-shlab.png"
+    }
+  ],
+  "publications": [
+    {
+      "venue": "<strong>Under Review</strong> (Avg. Score: 3.0, Top 16%)",
+      "year": "",
+      "title": "JetDiffusion: Pushing the Speed Limits of Video Generation with NVFP4 Sparse Attention",
+      "authors": [
+        "Yulun Wu*",
+        "Zihan Min*",
+        "Minshen Zhang*",
+        "Kaiqin Kong",
+        "Ji Xie",
+        "Will Lin",
+        "Junda Chen",
+        "Wenxuan Tan",
+        "Aryan Kumar",
+        "Loay Rashid",
+        "Qingyu Yin",
+        "Hao Zhang"
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "href": "https://arxiv.org/abs/2611.33268"
+        },
+        {
+          "label": "Blog",
+          "href": "https://memset0.github.io/JetDiffusion/"
+        },
+        {
+          "label": "Code",
+          "href": "https://github.com/memset0/JetDiffusion"
+        }
+      ],
+      "thumb": "JetDiffusion"
+    },
+    {
+      "venue": "<strong>ICML 2026</strong>",
+      "year": "",
+      "title": "Evaluating Parameter Efficient Methods for RLVR",
+      "authors": [
+        "Qingyu Yin*",
+        "Yulun Wu*",
+        "Zhennan Shen*",
+        "Sunbowen Li",
+        "Zhilin Wang",
+        "Yanshu Li",
+        "Chak Tou Leong",
+        "Jiale Kang",
+        "Jinjin Gu"
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "href": "https://arxiv.org/abs/2512.23165"
+        },
+        {
+          "label": "Code",
+          "href": "https://github.com/MikaStars39/PeRL"
+        }
+      ],
+      "thumb": "RLVR",
+      "thumbImg": "assets/pub-rlvr.png"
+    },
+    {
+      "venue": "Under Review",
+      "year": "",
+      "title": "JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting",
+      "authors": [
+        "Lanxiang Hu",
+        "Zhaoxiang Feng",
+        "Yulun Wu",
+        "Haoran Yuan",
+        "Yujie Zhao",
+        "Yu-Yang Qian",
+        "Bojun Wang",
+        "Peng Zhao",
+        "Daxin Jiang",
+        "Yibo Zhu",
+        "Tajana Rosing",
+        "Hao Zhang"
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "href": "https://arxiv.org/abs/2606.18394"
+        },
+        {
+          "label": "Blog",
+          "href": "https://jetspec-project.github.io/jetspec-web/"
+        },
+        {
+          "label": "Code",
+          "href": "https://github.com/hao-ai-lab/JetSpec"
+        },
+        {
+          "label": "Model",
+          "href": "https://huggingface.co/collections/JetSpec/jetspec-releases"
+        }
+      ],
+      "thumb": "JetSpec"
+    },
+    {
+      "venue": "<strong>ICML 2026 AI4Math Workshop</strong>",
+      "year": "",
+      "badge": "Technical Report",
+      "title": "P1: Mastering Physics Olympiads with Reinforcement Learning",
+      "authors": [
+        "Jiacheng Chen*",
+        "Qianjia Cheng*",
+        "Fangchen Yu*",
+        "...",
+        "Yulun Wu",
+        "...",
+        "et al."
+      ],
+      "links": [
+        {
+          "label": "Paper",
+          "href": "https://arxiv.org/abs/2511.13612"
+        },
+        {
+          "label": "Blog",
+          "href": "https://prime-rl.github.io/P1/"
+        },
+        {
+          "label": "Model",
+          "href": "https://huggingface.co/PRIME-RL/P1-235B-A22B"
+        }
+      ],
+      "thumb": "P1",
+      "thumbImg": "assets/pub-p1.png",
+      "note": "Work done during internship at Shanghai AI Lab."
+    }
+  ],
+  "scholarships": [
+    {
+      "year": "Aug. 2025",
+      "title": "CCF Outstanding Undergraduate",
+      "org": "Awarded to <strong>99</strong> students in China in 2025"
+    },
+    {
+      "year": "Oct. 2025",
+      "title": "He Zhijun Education Fund Scholarship",
+      "org": "Awarded to <strong>1 of 550</strong> students in my grade in 2025"
+    }
+  ],
+  "awards": [
+    {
+      "year": "Dec. 2024",
+      "title": "Gold Medal, The 49th ICPC Asia East Continent Final (EC-Final)",
+      "org": "Ranked <strong>3rd</strong> in China, out of 4,539 teams across all regionals"
+    },
+    {
+      "year": "Nov. 2023",
+      "title": "Gold Medal, The 48th ICPC Asia Hefei Regional Contest",
+      "org": "Ranked <strong>2nd</strong> out of 344 teams"
+    },
+    {
+      "year": "Nov. 2023",
+      "title": "Gold Medal, The 48th ICPC Asia Nanjing Regional Contest",
+      "org": "Ranked <strong>3rd</strong> out of 331 teams"
+    },
+    {
+      "year": "Oct. 2023",
+      "title": "Gold Medal, The 9th CCPC Qinhuangdao Regional Contest",
+      "org": "Ranked <strong>3rd</strong> out of 240 teams"
+    },
+    {
+      "year": "Aug. 2020",
+      "title": "International Gold Medal, Asia-Pacific Informatics Olympiad (APIO)",
+      "org": "Ranked <strong>1st (tied)</strong> in Asia Pacific"
+    }
+  ],
+  "awardsMore": [
+    {
+      "year": "Dec. 2025",
+      "title": "Gold Medal, The 50th ICPC Asia Kunming Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2025",
+      "title": "Gold Medal, The 11th CCPC Chongqing Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2025",
+      "title": "Gold Medal, The 50th ICPC Asia Shanghai Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2025",
+      "title": "Gold Medal, The 11th CCPC Jinan Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Dec. 2024",
+      "title": "Gold Medal, The 49th ICPC Asia Kunming Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2024",
+      "title": "Gold Medal, The 49th ICPC Asia Shanghai Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2024",
+      "title": "Gold Medal, The 10th CCPC Chongqing Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Oct. 2024",
+      "title": "Gold Medal, The 10th CCPC Jinan Regional Contest",
+      "org": ""
+    },
+    {
+      "year": "Nov. 2021",
+      "title": "First Prize, National Olympiad in Informatics in Provinces",
+      "org": ""
+    },
+    {
+      "year": "Dec. 2020",
+      "title": "First Prize, National Olympiad in Informatics in Provinces",
+      "org": ""
+    }
+  ]
+}
